@@ -19,8 +19,9 @@ import java.util.Comparator;
 public class MergeFork extends javax.swing.JFrame {
     
     private final String[] contributorArray = new String[] {
-        "Zane Zeedrich",
+        "Ken Weber",
         "CSIS Student",
+        "Zane Zeedrich"
     };
     
     /**
