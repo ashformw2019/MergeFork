@@ -25,7 +25,7 @@ public class MergeFork extends javax.swing.JFrame {
         "Jenna Liles",
         "Matt Bennett",
         "Connor Rogers",
-        "Zane Zeedrich"
+        "Zane Zeedrich",
         "Alec Cotton",
     };
     
