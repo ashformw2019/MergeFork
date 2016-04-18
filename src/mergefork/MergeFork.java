@@ -32,6 +32,7 @@ public class MergeFork extends javax.swing.JFrame {
         "Kevin Swaney",
         "Samuel Jones",
         "Morgyn Miller",
+        "Matt Ashford"
     };
     
     /**
